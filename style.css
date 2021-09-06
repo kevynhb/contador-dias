@@ -32,9 +32,27 @@ a {
   padding: 10rem;
   border-radius: 10rem;
 
+  /* Provisorio */
+  margin: 0 5%;
+
   /* adicinar margin center de algum modo que eu não sei ainda, centralizar o circulo no meio da tela, independente do tamanho (responsivo)*/
 }
 
 .text-botton {
   margin-top: 25rem;
+}
+
+/* @media only screen and (max-device-width: 900px) {
+  .body {
+    width: 100%;
+  }
+} */
+@media only screen and (max-device-width: 900px) {
+  body {
+    width: 600px;
+  }
+@media only screen and (max-device-width: 700px) {
+  body {
+    width: 400px;
+  }
 }

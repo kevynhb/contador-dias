@@ -22,5 +22,7 @@ conseguir abster desse hábito cada vez por mais dias consecutivos.
 - Ou armazenar offline no proprio aparelho
 - Animação mostrando como usar o aplicativo
 - Migrar para desenvolvimento com React
+- Metas para atingir e ganhar troféus
+- Notificação de meta atingida
 
 ## Em inicio de desenvolvimento...
