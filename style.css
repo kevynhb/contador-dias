@@ -1,6 +1,8 @@
+body {
+  text-align: center;
+}
 h1 {
   background-color: rgb(235, 193, 5);
-  text-align: center;
 }
 a {
   height: 301px;
@@ -10,9 +12,14 @@ a {
   border-radius: 0px;
 }
 
+.text {
+  margin-bottom: 2.2rem;
+}
+
 .circle {
   display: flex;
 
+  /* codigo do figma */
   position: absolute;
   width: 297px;
   height: 301px;
@@ -20,5 +27,14 @@ a {
   background: #eeb053;
   border: 1px solid #000000;
   box-sizing: border-box;
-  /* background: hsla(36, 82%, 63%, 1); */
+  /* ----------- */
+
+  padding: 10rem;
+  border-radius: 10rem;
+
+  /* adicinar margin center de algum modo que eu não sei ainda, centralizar o circulo no meio da tela, independente do tamanho (responsivo)*/
+}
+
+.text-botton {
+  margin-top: 25rem;
 }

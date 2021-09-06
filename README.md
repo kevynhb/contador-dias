@@ -19,6 +19,7 @@ conseguir abster desse hábito cada vez por mais dias consecutivos.
 ### Funcionalidades futuras
 
 - Loguin (salvar o progresso de cada um)
+- Ou armazenar offline no proprio aparelho
 - Animação mostrando como usar o aplicativo
 - Migrar para desenvolvimento com React
 
